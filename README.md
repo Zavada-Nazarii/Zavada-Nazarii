@@ -64,11 +64,41 @@
 
 ---
 
-## 🏆 Certifications  
+## 🏆 Certifications & Courses  
 
-- 🛡 **Burp Suite Certified Practitioner**  
+### 🛡 **Professional Certifications**
+- 🏅 **Burp Suite Certified Practitioner**  
 - 🔥 **eJPT (eLearnSecurity Junior Penetration Tester)**  
-- 🕵 **CNSP (Certified Network Security Practitioner)**  
+- 🕵️ **CNSP (Certified Network Security Practitioner)**  
+
+### ⚔️ **Offensive Security & Ethical Hacking**
+- 🏹 **Offensive Pentesting - TryHackMe**  
+- 🏴‍☠️ **Hacking 101 - Cyber School Ukraine**  
+- 🛠 **Windows Privilege Escalation for Beginners - TCM Security**  
+- 🎭 **Ethical Hacker - Cisco Networking Academy**  
+- 🕵️‍♂️ **Базовий OSINT курс від Molfar - Molfar**  
+
+### 🖥 **Network & Endpoint Security**
+- 🔐 **Endpoint Security - Cisco Networking Academy**  
+- 🌐 **Networking Devices and Initial Configuration - Cisco Networking Academy**  
+
+### 📱 **Mobile & iOS Security**
+- 📲 **The Complete iOS Pentesting & Bug Bounty Course - Udemy**  
+- 🔍 **Mobile Application Penetration Testing - TCM Security**  
+
+### 🐧 **Linux & Privilege Escalation**
+- 🛠 **Linux Privilege Escalation for Beginners - TCM Security**  
+
+### 🤖 **Automation, Cloud & AI**
+- 🏗 **Automated Software Testing with Python - Udemy**  
+- ☁️ **Google Cloud Essentials - Google Cloud Skills Boost**  
+
+### 🐞 **Bug Bounty & Web Pentesting**
+- 🎯 **Ultimate Bug Bounty - Udemy**  
+- 💻 **Full Ethical Hacking & Penetration Testing Course - Udemy**  
+- 📌 **Metasploit Framework: Penetration Testing with Metasploit - Udemy**  
+- 🌍 **Nmap for Penetration Testing: Beginner To Advanced - Udemy**  
+- 💉 **Ethical Hacking: SQL Injection for Beginners - Udemy**  
 
 ---
 
