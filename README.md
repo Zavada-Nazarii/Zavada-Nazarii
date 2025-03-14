@@ -111,8 +111,9 @@
 
 ## 📬 Contact Me  
 
-📧 Email: [zavadanazar@gmail.com](mailto:zavadanazar@gmail.com)  
-💼 LinkedIn: [linkedin](www.linkedin.com/in/zavada-nazarii)  
+[![Email](https://img.shields.io/badge/Email-zavadanazar@gmail.com-%23D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zavadanazar@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zavada-nazarii)
+
 
 ---
 
