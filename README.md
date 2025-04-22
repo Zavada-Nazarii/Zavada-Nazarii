@@ -94,6 +94,7 @@
 - ☁️ **Google Cloud Essentials - Google Cloud Skills Boost**  
 
 ### 🐞 **Bug Bounty & Web Pentesting**
+- 🔑 **CRYPTOGRAPHY BASIC**
 - 🎯 **Ultimate Bug Bounty - Udemy**  
 - 💻 **Full Ethical Hacking & Penetration Testing Course - Udemy**  
 - 📌 **Metasploit Framework: Penetration Testing with Metasploit - Udemy**  
