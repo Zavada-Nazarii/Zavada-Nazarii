@@ -57,7 +57,7 @@
 
 ## 📜 Cybersecurity Articles  
 
-📝 **Medium:** [Trying to break out of the Python REPL sandbox in a Kubernetes environment: a practical journey](https://medium.com/@zavadanazar/trying-to-break-out-of-the-python-repl-sandbox-in-a-kubernetes-environment-a-practical-journey-25da83b259b3)
+📝 **Medium:** [Trying to break out of the Python REPL sandbox in a Kubernetes environment: a practical journey](https://medium.com/@zavadanazar/trying-to-break-out-of-the-python-repl-sandbox-in-a-kubernetes-environment-a-practical-journey-25da83b259b3)  
 📝 **Medium:** [Burp Suite Certified Practitioner](https://medium.com/@zavadanazar/%D0%BC%D1%96%D0%B9-%D1%88%D0%BB%D1%8F%D1%85-%D0%B4%D0%BE-%D0%B7%D0%B4%D0%B0%D1%87%D1%96-%D0%B5%D0%BA%D0%B7%D0%B0%D0%BC%D0%B5%D0%BD%D1%83-burp-suite-certified-practitioner-8740bd94a540)  
 📝 **Medium:** [eJPT шлях здачі екзамену або how to pass first time](https://medium.com/@zavadanazar/ejpt-%D1%88%D0%BB%D1%8F%D1%85-%D0%B7%D0%B4%D0%B0%D1%87%D1%96-%D0%B5%D0%BA%D0%B7%D0%B0%D0%BC%D0%B5%D0%BD%D1%83-%D0%B0%D0%B1%D0%BE-how-to-pass-first-time-aa3b01165761)  
 📝 **Medium:** [One way to test the security of a BroadcastReceiver in an Android application.](https://medium.com/@zavadanazar/one-way-to-test-the-security-of-a-broadcastreceiver-in-an-android-application-566ba17b0911)  
